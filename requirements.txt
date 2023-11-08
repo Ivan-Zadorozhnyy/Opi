@@ -1,0 +1,7 @@
+Flask
+pytest
+pytest-flask
+flask-sqlalchemy
+psycopg2-binary
+
+
